@@ -1,6 +1,6 @@
 {
   "name": "vite-boilerplate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite --port 3000",
@@ -46,5 +46,9 @@
       "npx prettier --write",
       "npx eslint --fix"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ysinghal310/vite-react-boilerplate.git"
   }
 }

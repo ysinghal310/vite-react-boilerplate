@@ -14,8 +14,8 @@ A starter template for a Vite React project with TypeScript, ESLint, Prettier, J
 
 ## Features
 
-- ⚡️ **Vite 2.x:** Blazing fast frontend tooling.
-- ⚛️ **React 17.x:** A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- ⚡️ **Vite 4.x:** Blazing fast frontend tooling.
+- ⚛️ **React 18.x:** A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - 🦄 **TypeScript 4.x:** Typed JavaScript at Any Scale.
 - 🚀 **ESLint:** Pluggable linting utility for JavaScript and TypeScript.
 - 💅 **Prettier:** Opinionated code formatter.
