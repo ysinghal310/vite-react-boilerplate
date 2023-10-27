@@ -28,42 +28,42 @@ A starter template for a Vite React project with TypeScript, ESLint, Prettier, J
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/ysinghal310/vite-react-boilerplate
-    ```
+   ```bash
+   git clone https://github.com/ysinghal310/vite-react-boilerplate
+   ```
 
 2. **Install dependencies:**
 
-    ```bash
-    cd your-vite-react-ts-project
-    yarn install or npm install
-    ```
+   ```bash
+   cd your-vite-react-ts-project
+   yarn install or npm install
+   ```
 
 3. **Run the development server:**
 
-    ```bash
-    yarn dev or npm dev
-    ```
+   ```bash
+   yarn dev or npm run dev
+   ```
 
 4. **Lint and format code:**
 
-    ```bash
-    yarn lint
-    ```
+   ```bash
+   yarn lint or npm run lint
+   ```
 
 5. **Run tests:**
 
-    ```bash
-    yarn test
-    ```
+   ```bash
+   yarn test or npm run test
+   ```
 
 ## Commands
 
-- `yarn dev`: Start the development server.
-- `yarn build`: Build the project for production.
-- `yarn lint`: Lint the project using ESLint and format code using Prettier.
-- `yarn test`: Run tests using Jest.
-- `yarn test:watch`: Run tests in watch mode.
+- `yarn dev or npm run dev`: Start the development server.
+- `yarn build or npm run build`: Build the project for production.
+- `yarn lint or npm run lint`: Lint the project using ESLint and format code using Prettier.
+- `yarn test or or npm run test`: Run tests using Jest.
+- `yarn test:watch : or npm run test:watch`: Run tests in watch mode.
 
 ## Contributing
 
